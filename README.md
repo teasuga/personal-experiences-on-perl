@@ -1,2 +1,2 @@
-# experience-on-perl
-Experience things on perl with some files in branches separately.
+# experience-on-perl/regex-key
+Regex scalar returned by getc(), and loop it.
