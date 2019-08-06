@@ -1,4 +1,8 @@
 #!/bin/perl
+# contain current terminal settings.
+# then rawly getc(). when exits, back settings.
+#
+# To exit, send a signal by another terminal.
 
 END { resets }
 sub resets {
